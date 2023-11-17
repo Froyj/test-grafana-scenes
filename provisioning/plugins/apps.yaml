@@ -1,0 +1,5 @@
+apiVersion: 1
+
+apps:
+  - type: 'csnano-scenesdemo-app'
+    disabled: false
